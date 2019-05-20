@@ -1,5 +1,6 @@
 # CPE_BSQ_2017
 3 weeks long project
+
 The goal of this project is to find the biggest square in a map made of '.' and 'o', and replace them by 'x'.
 
 To compile the binary type "make"
